@@ -8,6 +8,6 @@ print(f"Learning {name} is easy!")
 
 # 3. List and Loop
 items = [1, 2, 3, 4]
-for item in items:
+for item in the items:
     print(item * 2)
 
